@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dvrvsimi
-- 👀 I’m interested in building useful apps
-- 🌱 I’m currently learning python
-- 💞️ I’m a beginner so any help would be welcome
+- 👀 I’m interested in building useful apps that can automate tasks
+- 🌱 I’m currently learning python for machine learning
+- 💞️ I'm looking for help with entry-levell open source projects, hackathons, internships and opportunities
 - 📫 How to reach me? mail: daraakojede01@gmail.com
 
 <!---
